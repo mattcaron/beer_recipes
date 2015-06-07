@@ -1,0 +1,37 @@
+<!DOCTYPE recipe ><recipe generator="qbrew" version="0.3.3" >
+ <title>Helles Belles Double Chocolate Espresso Stout</title>
+ <brewer>Scott Dunlap</brewer>
+ <style>Sweet Stout</style>
+ <batch quantity="5.000000 gal" mash="false" />
+ <notes class="recipe" >Steap grains for 30 min at 150-160F
+At 170F add extract
+Add chocolate at beginning of boil
+Fill carbouy to 4 gallons and pitch yeast
+At secondary, brew espresso to one gallon of coffee and add to carbouy
+Bottle and use 1 tsp heading powder along with 3/4 cup dextrose</notes>
+ <notes class="batch" >OG - 1.072, 19 balling
+FG - 1.020, 
+ABW - 5.5%
+ABV - 6.9%
+Coffee came off a little strong in the beginning but mellowed out after sitting in the bottles for a month or so. 
+I let it sit in secondary for about 3 weeks.  After everything mellowed it was a great beer, and the chocolate 
+came out more the  higher the drinking temp.  I tried it at room temp and it was very nice and mellow with a
+little kick from the chocolate and espressp
+
+</notes>
+ <grains>
+  <grain use="extract" quantity="8.000000 lb" color="15" extract="1.036" >Dark malt extract</grain>
+  <grain use="steeped" quantity="0.500000 lb" color="20" extract="1.035" >Crystal 20L</grain>
+  <grain use="steeped" quantity="0.500000 lb" color="350" extract="1.029" >American chocolate malt</grain>
+  <grain use="steeped" quantity="0.500000 lb" color="450" extract="1.028" >Roasted barley</grain>
+  <grain use="extract" quantity="1.000000 lb" color="0" extract="1.03" >Ghirardelli Premium Sweet Chocolate</grain>
+ </grains>
+ <hops>
+  <hop form="whole" alpha="7.4" quantity="1.500000 oz" time="60" >Northern Brewer</hop>
+  <hop form="whole" alpha="7.4" quantity="0.500000 oz" time="15" >Northern Brewer</hop>
+ </hops>
+ <miscingredients>
+  <miscingredient notes="package" quantity="1.000000 unit" >Irish Ale yeast - WLP004</miscingredient>
+  <miscingredient notes="brewed to one gallon (.5 lb)" quantity="0.500000 unit" >Espresso beans ground</miscingredient>
+ </miscingredients>
+</recipe>
