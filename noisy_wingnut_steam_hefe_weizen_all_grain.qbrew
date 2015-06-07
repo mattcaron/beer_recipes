@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Noisy Wingnut Steam Hefe Weizen (All Grain)</title>
+  <brewer>Matt Caron and Liz Muth</brewer>
+  <style>Weizen/Weissbier</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">This is a variation on Northern Brewer's Bavarian Hefe - same recipe, different yeast.
+
+This was actually an oops - we used the wrong yeast. As it turns out, the result is one of our favorites.
+
+This is the extract version.
+
+A note on the name - we have an orange cat who, as a kitten, had big years and yowled a lot. Hence, his nickname of &quot;noisy wingnut&quot;. He's grown in to his years, but still likes to yowl at the moon.</notes>
+  <grains>
+    <grain quantity="4.00 lb" extract="1.038" color="1.6" type="Grain" use="Mashed">German pilsener</grain>
+    <grain quantity="5.50 lb" extract="1.039" color="1.8" type="Grain" use="Mashed">German wheat</grain>
+  </grains>
+  <hops>
+    <hop quantity="1.00 oz" alpha="3.7" time="60" type="Pellet">Tettnanger</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="Used Wyeast 2206">Bavarian Lager yeast</miscingredient>
+  </miscingredients>
+</recipe>
