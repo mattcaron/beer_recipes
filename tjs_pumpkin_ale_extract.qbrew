@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>TJ's Pumpkin Ale (Extract)</title>
+  <brewer>Matt and Liz Caron</brewer>
+  <style>Fruit Beer</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">Roast pumpkin pieces at 350F for 1 hour 15 mins. Remove skin and crush meat.
+
+Mini-mash pumpkin, gypsum, and grains with 2 gal water @ 167F for mash temp of 150F for 1 hour. Drain.
+
+Sparge with 2 gallons water at 170F.
+
+Add water to get to your starting boil volume (varies by kettle, mine likes 7 gal total).
+
+Bring to boil, add malt and .75oz hops.
+
+30 min: add Irish Moss.
+
+10 min: add remaining hops.
+
+5 min: add all spices
+
+2 week primary, 2 weeks bottle.
+
+Recpie is attributed to Thomas Jefferson, tweaked slightly by us based on the quantities which our homebrew shop stocks.
+
+We grow the pumpkins ourselves. Winter luxury are strongly recommended for this recipe because of the high sugar content and excellent flavor.</notes>
+  <grains>
+    <grain quantity="1.00 lb" extract="1.034" color="55" type="Grain" use="Mashed">British crystal 50-60L</grain>
+    <grain quantity="2.50 lb" extract="1.033" color="1.8" type="Grain" use="Mashed">CaraPils</grain>
+    <grain quantity="6.00 lb" extract="1.036" color="1" type="Extract" use="Extract">Gold Malt Extract</grain>
+  </grains>
+  <hops>
+    <hop quantity="0.75 oz" alpha="4.5" time="10" type="Pellet">Willamette</hop>
+    <hop quantity="0.75 oz" alpha="4.5" time="60" type="Pellet">Willamette</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="">British Ale yeast</miscingredient>
+    <miscingredient quantity="2.00 unit" type="Spice" notes="2 TSP">Cinnamon</miscingredient>
+    <miscingredient quantity="4.00 unit" type="Spice" notes="4 Whole cloves">Cloves</miscingredient>
+    <miscingredient quantity="8.00 unit" type="Spice" notes="8 Pieces, 1/8&quot; thick, 1/4&quot; rounds (roughly)">Ginger, Dried</miscingredient>
+    <miscingredient quantity="1.00 unit" type="Other" notes="1 TSP">Gypsum</miscingredient>
+    <miscingredient quantity="1.00 unit" type="Fining" notes="1 TSP">Irish Moss</miscingredient>
+    <miscingredient quantity="1.00 unit" type="Spice" notes="1 TSP">Nutmeg</miscingredient>
+    <miscingredient quantity="5.00 unit" type="Flavor" notes="5 Lbs, either fresh roasted or canned.">Pumpkin Meat</miscingredient>
+  </miscingredients>
+</recipe>
