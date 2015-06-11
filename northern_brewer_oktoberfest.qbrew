@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Northern Brewer Oktoberfestmay roam</title>
+  <brewer>Matt and Liz Caron</brewer>
+  <style>Oktoberfest/Marzen</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">Mash all grains at 152F for 60 minutes.
+
+This is the standard Northern Brewer Oktoberfest recipe from http://www.northernbrewer.com/documentation/allgrain/AG-Oktoberfest.pdf</notes>
+  <grains>
+    <grain quantity="1.00 lb" extract="1.025" color="15.5" type="Grain" use="Mashed">German Dark Munich</grain>
+    <grain quantity="5.00 lb" extract="1.037" color="8" type="Grain" use="Mashed">German Munich</grain>
+    <grain quantity="5.00 lb" extract="1.038" color="1.6" type="Grain" use="Mashed">German pilsener</grain>
+    <grain quantity="0.50 lb" extract="1.025" color="46" type="Grain" use="Mashed">Weyermann Caramunich II</grain>
+  </grains>
+  <hops>
+    <hop quantity="1.00 oz" alpha="6" time="60" type="Pellet">Tradition</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="">Bavarian Lager yeast</miscingredient>
+  </miscingredients>
+</recipe>
