@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Leftover Lager</title>
+  <brewer>Matt and Liz Caron</brewer>
+  <style>Oktoberfest/Marzen</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">A lager attempting to emulate an oktoberfest in terms of color, bitterness and gravity, using leftovers from the brewing cabinet.
+
+Mash all grains at 152F for 60 minutes.</notes>
+  <grains>
+    <grain quantity="2.00 lb" extract="1.037" color="3" type="Grain" use="Mashed">German vienna</grain>
+    <grain quantity="0.50 lb" extract="1.034" color="75" type="Grain" use="Mashed">British crystal 70-80L</grain>
+    <grain quantity="9.00 lb" extract="1.037" color="1.8" type="Grain" use="Mashed">American two-row</grain>
+  </grains>
+  <hops>
+    <hop quantity="1.00 oz" alpha="6.6" time="60" type="Pellet">Cascade</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="">Bavarian Lager yeast</miscingredient>
+  </miscingredients>
+</recipe>
