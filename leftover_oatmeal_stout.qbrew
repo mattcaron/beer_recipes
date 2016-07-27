@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Leftover Oatmeal Stout</title>
+  <brewer></brewer>
+  <style>Oatmeal Stout</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">This is made from leftovers I had on hand at the beginning of 2016.</notes>
+  <grains>
+    <grain quantity="0.50 lb" extract="1.025" color="500" type="Grain" use="Mashed">Black Malt</grain>
+    <grain quantity="0.50 lb" extract="1.034" color="75" type="Grain" use="Mashed">British crystal 70-80L</grain>
+    <grain quantity="0.50 lb" extract="1.025" color="225" type="Grain" use="Mashed">Chocolate Rye</grain>
+    <grain quantity="1.00 lb" extract="1.033" color="2.2" type="Adjunct" use="Mashed">Flaked oats</grain>
+    <grain quantity="6.50 lb" extract="1.037" color="1.8" type="Grain" use="Mashed">American two-row</grain>
+  </grains>
+  <hops>
+    <hop quantity="0.50 oz" alpha="5.1" time="60" type="Pellet">Kent Golding</hop>
+    <hop quantity="0.50 oz" alpha="5.5" time="60" type="Pellet">Glacier</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="Wyeast 1335 British Ale II">British Ale yeast</miscingredient>
+  </miscingredients>
+</recipe>
