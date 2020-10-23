@@ -32,7 +32,7 @@ We grow the pumpkins ourselves. Winter luxury are strongly recommended for this 
     <hop quantity="0.75 oz" alpha="4.5" time="60" type="Pellet">Willamette</hop>
   </hops>
   <miscingredients>
-    <miscingredient quantity="1.00 unit" type="Yeast" notes="">British Ale yeast</miscingredient>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="Wyeast 1098 or Safale S-04">British Ale yeast</miscingredient>
     <miscingredient quantity="2.00 unit" type="Spice" notes="2 TSP">Cinnamon</miscingredient>
     <miscingredient quantity="4.00 unit" type="Spice" notes="4 Whole cloves">Cloves</miscingredient>
     <miscingredient quantity="8.00 unit" type="Spice" notes="8 Pieces, 1/8&quot; thick, 1/4&quot; rounds (roughly)">Ginger, Dried</miscingredient>
