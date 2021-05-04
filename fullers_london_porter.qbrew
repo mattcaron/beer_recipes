@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Fuller's London Porter Clone</title>
+  <brewer>Jon Pearson (who got it from a guy)</brewer>
+  <style>Robust Porter</style>
+  <batch quantity="5.00 gal"/>
+  <notes class="recipe">Mash at 153F for 60 minutes.</notes>
+  <grains>
+    <grain quantity="0.75 lb" extract="1.034" color="475" type="Grain" use="Mashed">British chocolate malt</grain>
+    <grain quantity="1.00 lb" extract="1.034" color="75" type="Grain" use="Mashed">British crystal 70-80L</grain>
+    <grain quantity="1.50 lb" extract="1.032" color="70" type="Grain" use="Mashed">British brown</grain>
+    <grain quantity="8.00 lb" extract="1.037" color="1.8" type="Grain" use="Mashed">American two-row</grain>
+  </grains>
+  <hops>
+    <hop quantity="0.75 oz" alpha="4" time="15" type="Pellet">Fuggles</hop>
+    <hop quantity="1.25 oz" alpha="4" time="60" type="Pellet">Fuggles</hop>
+  </hops>
+  <miscingredients>
+    <miscingredient quantity="1.00 unit" type="Yeast" notes="Wyeast #1968">London ESB Ale yeast</miscingredient>
+  </miscingredients>
+</recipe>
